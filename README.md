@@ -1,6 +1,6 @@
 # MacFinder
 
-MacFinder is a Python script for search vendor of mac list.
+MacFinder is a Python script for search vendor of mac address list.
 
 ## Usage Example
 
