@@ -5,7 +5,10 @@ MacFinder is a Python script for search vendor of mac address list.
 ## Usage Example
 
 ```bash
-python macfinder.py mac.txt
+python macfinder.py -f mac.txt
+python macfinder.py --file mac.txt
+python macfinder.py -m 00:15:5D:0A:C6:00
+python macfinder.py -mac 00:15:5D:0A:C6:00
 ```
 
 ## Result Example
